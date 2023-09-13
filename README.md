@@ -1,7 +1,7 @@
 # 最新版 v2rayNG 下载
 
 最新版 v2rayNG 下载可至 v2rayNG 官网 Github 平台下载。
-
+https://v2rayng.org/wp-content/uploads/2022/09/1662903746-v2rayng-download-1024x538.jpg.webp
 
 ## 目录
 
